@@ -33,5 +33,10 @@
   width:200px;
   height:100px;
 }
-.icon{}
+.icon{
+  position:relative;
+  top:90px;
+  width:200px;
+  height:100px;
+}
 .ad{}
