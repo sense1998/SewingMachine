@@ -33,15 +33,18 @@
 .menu{
   position:relative;
   top:90px;
-  width:1200px;
+  width:1250px;
   height:100px;
   margin:auto;
 }
 .icon{
-  position:absolute;
+  position:relative;
   top:0px;
   width:200px;
   height:100px;
+  margin-right:25px;
+  margin-left:25px;
+  float:left;
 }
 .ad{
 }
