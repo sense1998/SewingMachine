@@ -13,7 +13,6 @@
   left:168px;
   width: 200px;
   height:60px;
-  background-color: #FFFFFF;
 }
 .logo{
   position:absolute;
@@ -36,6 +35,11 @@
   position:absolute;
   top:0px;
   right:0px;
+  width: 700px;
+  height: 60px;
+  margin-left:5px;
+  margin-right:5px;
+  float:left;
   }
 .menu{
   position:relative;
@@ -43,7 +47,7 @@
   width:1250px;
   height:100px;
   margin:auto;
-}
+ }
 .icon{
   position:relative;
   top:0px;
@@ -57,5 +61,6 @@
   position:relative;
   top:120px;
   width:1200px;
+  height:525px;
   margin:auto;
 }
