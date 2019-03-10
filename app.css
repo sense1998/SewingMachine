@@ -72,6 +72,11 @@
   height:525px;
 }
 .ad_word{
+  position:relative;
+  top:0px;
+  right:0px;
+  width:500px;
+  height:525px;
 }
 
 .ad_link{
