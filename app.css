@@ -21,6 +21,8 @@
   left:0px;
   width: 180px;
   height:55px;
+  margin-top:2.5px;
+  margin-bottom:2.5px;
 }
 .right_nav{
   position:absolute;
