@@ -70,6 +70,7 @@
   left:0px;
   width:700px;
   height:525px;
+  float:left;
 }
 .ad_word{
   position:relative;
@@ -77,6 +78,8 @@
   right:0px;
   width:500px;
   height:525px;
+  float:left;
+  background-color: #DDDDDD;
 }
 
 .ad_link{
